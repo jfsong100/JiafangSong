@@ -1,6 +1,7 @@
 baseURL: "/"
 languageCode: en
 title: "Jiafang Song"
+theme: hugo-blox-builder
 
 markup:
   goldmark:
