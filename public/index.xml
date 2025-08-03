@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiafang Song</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Jiafang Song</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>//localhost:1313/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/home/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Jiafang. I develop scalable Bayesian inference methods for spatial and modular models, with applications in health data science.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/home/contact/</guid>
+      <description>&lt;p&gt;Email: &lt;strong&gt;&lt;a href=&#34;mailto:jiafang@youruniversity.edu&#34;&gt;jiafang@youruniversity.edu&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&#xA;GitHub: &lt;a href=&#34;https://github.com/jfsong100&#34;&gt;https://github.com/jfsong100&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

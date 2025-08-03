@@ -1,0 +1,11 @@
+baseURL: "/"
+languageCode: en
+title: "Jiafang Song"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  email: jiafang@youruniversity.edu
