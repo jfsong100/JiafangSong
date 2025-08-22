@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "spVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using Nearest Neighbor Gaussian Processes (NNGP). The method avoids auto-differentiation by leveraging closed-form gradient updates and linear response corrections, enabling accurate uncertainty quantification at reduced computational cost. [tutorial][https://jfsong100.github.io/spVarBayes/spVarBayes-tutorial.html] is available.\nNeVI-Cut: Variational inference with normalizing flows for modular Bayes"
+    "text": "spVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It uses closed-form gradient updates and linear response corrections for calibrated uncertainty at lower cost. A tutorial is available."
   },
   {
     "objectID": "research.html",
