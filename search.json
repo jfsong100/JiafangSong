@@ -11,20 +11,20 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects\n\nspVarBayes: R package for scalable spatial variational inference\n\nNeVI-Cut: Variational inference with normalizing flows for modular Bayes"
+    "text": "spVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using Nearest Neighbor Gaussian Processes (NNGP). The method avoids auto-differentiation by leveraging closed-form gradient updates and linear response corrections, enabling accurate uncertainty quantification at reduced computational cost. [tutorial][https://jfsong100.github.io/spVarBayes/spVarBayes-tutorial.html] is available.\nNeVI-Cut: Variational inference with normalizing flows for modular Bayes"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Research\nI work on scalable Bayesian inference, variational methods, and spatial models. - Fast Variational Inference for NNGP - Modular Bayes with normalizing flows - Applications in disease mapping and healthcare claims"
+    "text": "I work on scalable Bayesian inference, variational methods, and spatial models. - Fast Variational Inference for NNGP - Modular Bayes with normalizing flows - Applications in disease mapping and healthcare claims"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "JiafangSong",
+    "title": "Jiafang Song",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Dr. [Abhirup Datta][https://abhidatta.com]. My research focuses on variational inference and machine learning methods, including normalizing flows and neural networks. I previously earned an MS in Biostatistics from Yale University."
   }
 ]

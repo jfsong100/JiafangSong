@@ -138,16 +138,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="projects" class="level1">
-<h1>Projects</h1>
 <ul>
-<li><strong>spVarBayes</strong>: R package for scalable spatial variational inference<br>
-</li>
-<li><strong>NeVI-Cut</strong>: Variational inference with normalizing flows for modular Bayes</li>
+<li><p><strong>spVarBayes</strong>: An R package for fast variational Bayesian inference in large-scale geospatial regression using Nearest Neighbor Gaussian Processes (NNGP). The method avoids auto-differentiation by leveraging closed-form gradient updates and linear response corrections, enabling accurate uncertainty quantification at reduced computational cost. [tutorial][https://jfsong100.github.io/spVarBayes/spVarBayes-tutorial.html] is available.</p></li>
+<li><p><strong>NeVI-Cut</strong>: Variational inference with normalizing flows for modular Bayes</p></li>
 </ul>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -222,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/jfsong100\.github\.io\/JiafangSong\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
