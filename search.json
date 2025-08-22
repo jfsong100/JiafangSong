@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\n\nspVarBayes: R package for scalable spatial variational inference\n\nNeVI-Cut: Variational inference with normalizing flows for modular Bayes"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research\nI work on scalable Bayesian inference, variational methods, and spatial models. - Fast Variational Inference for NNGP - Modular Bayes with normalizing flows - Applications in disease mapping and healthcare claims"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JiafangSong",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
