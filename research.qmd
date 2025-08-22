@@ -1,0 +1,9 @@
+---
+title: "Research"
+---
+
+# Research
+I work on scalable Bayesian inference, variational methods, and spatial models.
+- Fast Variational Inference for NNGP
+- Modular Bayes with normalizing flows
+- Applications in disease mapping and healthcare claims
