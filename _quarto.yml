@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Jiafang Song"
@@ -11,5 +12,3 @@ website:
         text: About
       - href: research.qmd
         text: Research
-      - href: projects.qmd
-        text: Projects

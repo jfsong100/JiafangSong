@@ -1,7 +1,0 @@
----
-title: "Projects"
----
-
-# Projects
-- **spVarBayes**: R package for scalable spatial variational inference  
-- **NeVI-Cut**: Variational inference with normalizing flows for modular Bayes  

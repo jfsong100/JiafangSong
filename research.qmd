@@ -2,8 +2,25 @@
 title: "Research"
 ---
 
-# Research
 I work on scalable Bayesian inference, variational methods, and spatial models.
-- Fast Variational Inference for NNGP
-- Modular Bayes with normalizing flows
-- Applications in disease mapping and healthcare claims
+
+### Ph.D. Research
+- **Fast Variational Inference for NNGP**  
+  Designed a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models.  
+  **spVarBayes**: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A [tutorial](https://jfsong100.github.io/spVarBayes/spVarBayes-tutorial.html) is available.
+
+- **Normalizing Flows for Variational Inference**  
+  Developing conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.
+
+### Collaborations with [Infectious Disease Dynamics](https://www.iddynamics.jhsph.edu)
+- **Disease Mapping**  
+  Extended the directed acyclic graph autoregressive (DAGAR) model to accommodate multi-source, misaligned, and censored data, and applied it to quantify spatial and spatio-temporal patterns in real-world datasets.
+
+### Master’s Thesis
+- **Spatial Modeling of Point Source Influence**  
+  Developed a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data.
+
+### Master’s Research
+- **Measurement Error in Survival Models**  
+  Derived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.  
+  Developed EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods.

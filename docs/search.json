@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Ph.D. Candidate in Biostatistics (Aug 2021 – May 2026, expected)\nDepartment of Biostatistics, Johns Hopkins University\nAdvisor: Dr. Abhirup Datta\nM.S. in Biostatistics (Aug 2019 – May 2021)\nDepartment of Biostatistics, Yale University\nAdvisor: Dr. Joshua Warren\nResearch Assistant Advisors: Dr. Donna Spiegelman and Dr. Xin Zhou\nB.S. in Pharmaceutical Sciences (Sep 2014 – Jul 2018)\nSchool of Pharmaceutical Sciences, Peking University\nB.S. in Economics (Sep 2015 – Jul 2018)\nChina Center for Economic Research, Peking University"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiafang Song",
+    "section": "",
+    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Dr. Abhirup Datta. My research focuses on variational inference and machine learning methods. I previously earned an MS in Biostatistics from Yale University. I graduated from Peking University in Beijing, China, in 2018 with a B.S. in Pharmaceutical Sciences and a double major in Econimics."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I work on scalable Bayesian inference, variational methods, and spatial models.\n\nPh.D. Research\n\nFast Variational Inference for NNGP\nDesigned a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models.\nspVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A tutorial is available.\nNormalizing Flows for Variational Inference\nDeveloping conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.\n\n\n\nCollaborations with Infectious Disease Dynamics\n\nDisease Mapping\nExtended the directed acyclic graph autoregressive (DAGAR) model to accommodate multi-source, misaligned, and censored data, and applied it to quantify spatial and spatio-temporal patterns in real-world datasets.\n\n\n\nMaster’s Thesis\n\nSpatial Modeling of Point Source Influence\nDeveloped a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data.\n\n\n\nMaster’s Research\n\nMeasurement Error in Survival Models\nDerived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.\nDeveloped EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

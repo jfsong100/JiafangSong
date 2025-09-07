@@ -1,7 +1,6 @@
 ---
-title: "JiafangSong"
+title: "Jiafang Song"
 ---
 
-This is a Quarto website.
+I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by [Dr. Abhirup Datta](https://abhidatta.com). My research focuses on variational inference and machine learning methods. I previously earned an MS in Biostatistics from Yale University. I graduated from Peking University in Beijing, China, in 2018 with a B.S. in Pharmaceutical Sciences and a double major in Econimics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
