@@ -8,9 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - research.qmd
-      - projects.qmd
+      - text: Research
+        href: research.qmd
+      - text: Education
+        href: education.qmd
     right:
       - icon: github
         href: https://github.com/jfsong100
