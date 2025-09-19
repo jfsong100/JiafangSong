@@ -1,6 +1,49 @@
 ---
 title: "Jiafang Song"
+
+about:
+  template: trestles        # other options: default, jolla, broadside
+  image: assets/jiafang.png # convert your .heic to .jpg/.png and update path
+  image-shape: round        # rectangle | round | rounded
+  image-width: 180px
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jfsong100
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=HDx3_aYAAAAJ&hl=en
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jiafang-song-bb7464188/
+      aria-label: LinkedIn
+    # - icon: file-pdf
+    #   text: CV (PDF)
+    #   href: files/Jiafang_Song_CV.pdf
+    # - icon: envelope
+    #   text: Email
+    #   href: mailto:jsong100@jhu.edu
+
+page-layout: full
+execute:
+  eval: false
 ---
 
-I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by [Dr. Abhirup Datta](https://abhidatta.com). My research focuses on variational inference and machine learning methods. I previously earned an MS in Biostatistics from Yale University. I graduated from Peking University in Beijing, China, in 2018 with a B.S. in Pharmaceutical Sciences and a double major in Econimics.
+## Welcome
+
+I am a **PhD Candidate in Biostatistics** at Johns Hopkins University (expected May 2026), advised by **Abhirup Datta**. My research focuses on **Bayesian inference**, **variational inference methods with normalizing flows** for large, complex datasets.
+
+- **Research interests:** Bayesian inference · Variational inference · Normalizing flow · Spatial statistics
+- **Applications:** Air pollution · Disease mapping · Surveillance data
+
+## News
+
+- R package *[spVarBayes](https://github.com/jfsong100/spVarBayes)* is available on Github.
+
+
+## Contact
+
+Baltimore · Maryland · USA  
+[jsong100@jhu.edu](mailto:jsong100@jhu.edu)
+
+---
 

@@ -1,0 +1,45 @@
+/* --- Trestles about page: make the left column narrower --- */
+@media (min-width: 992px) {            /* desktop only */
+  .about-entity {
+    /* left column width 190–220px is a good range */
+    grid-template-columns: 200px minmax(0, 1fr) !important;
+    column-gap: 2rem;                  /* space between columns */
+  }
+
+  /* keep the portrait tidy within the narrower column */
+  .about-entity .about-image img {
+    max-width: 140px;                  /* tweak: 120–150px */
+  }
+
+  /* optional: slightly smaller name to match the tighter column */
+  .about-entity .about-title {
+    font-size: 2.1rem;
+    line-height: 1.2;
+  }
+
+  /* optional: wrap / tighten link buttons */
+  .about-entity .about-links {
+    gap: .5rem .6rem;
+    flex-wrap: wrap;
+  }
+}
+
+/* Wrap the whole research page content in a centered container */
+.research-wrapper {
+  max-width: 1100px;    /* control total width */
+  margin: 0 auto;       /* center horizontally */
+  padding: 0 1.5rem;    /* side padding */
+}
+
+/* Reduce middle gap */
+.research-grid { column-gap: 1.5rem; }
+
+/* Sticky left column */
+.sticky-col { position: sticky; top: 6rem; align-self: start; }
+
+/* Mobile fallback: stack */
+@media (max-width: 991.98px) {
+  .sticky-col { position: static; margin-bottom: 1rem; }
+  .research-grid { column-gap: 1rem; }
+}
+

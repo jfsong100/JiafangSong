@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Jiafang Song"
+  title: "Welcome"
   navbar:
     left:
       - href: index.qmd
@@ -12,13 +12,27 @@ website:
         href: research.qmd
       - text: Education
         href: education.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: More
+        href: more.qmd
     right:
       - icon: github
         href: https://github.com/jfsong100
-        aria-label: GitHub
-      - icon: mortarboard   
-        href: https://scholar.google.com/citations?user=HDx3_aYAAAAJ&hl=en&authuser=1
-        aria-label: Google Scholar
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=HDx3_aYAAAAJ&hl=en
       - icon: linkedin
         href: https://www.linkedin.com/in/jiafang-song-bb7464188/
-        aria-label: LinkedIn
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 1100px
+    css: styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+

@@ -1,26 +1,62 @@
 ---
-title: "Research"
+page-layout: full
+execute:
+  eval: false
 ---
 
-I work on scalable Bayesian inference, variational methods, and spatial models.
+<div class="research-wrapper">
 
-### Ph.D. Research
+<div class="research-grid grid">
+
+<div class="g-col-12 g-col-lg-3 sticky-col">
+  
+![](assets/jiafang.png){.rounded-circle width=120}
+
+### Jiafang Song
+PhD Candidate, Biostatistics  
+Johns Hopkins University
+
+[![](https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/github.svg){.icon-inline}](
+  https://github.com/jfsong100)   [![](https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/mortarboard-fill.svg){.icon-inline}](
+  https://scholar.google.com/citations?user=HDx3_aYAAAAJ&hl=en)  [![](https://cdn.jsdelivr.net/npm/bootstrap-icons/icons/linkedin.svg){.icon-inline}](
+  https://www.linkedin.com/in/jiafang-song-bb7464188/)
+
+
+[jsong100@jhu.edu](mailto:jsong100@jhu.edu)
+
+</div>
+
+<div class="g-col-12 g-col-lg-9">
+
+I work on Bayesian inference, machine learning, variational inference, and spatial statistics.
+
+## Ph.D. Research
 - **Fast Variational Inference for NNGP**  
-  Designed a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models.  
+  Designed a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on [arxiv](https://arxiv.org/abs/2507.12251).  
   **spVarBayes**: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A [tutorial](https://jfsong100.github.io/spVarBayes/spVarBayes-tutorial.html) is available.
+ ![](assets/vi.png){width=80% fig-align="center"}
 
 - **Normalizing Flows for Variational Inference**  
-  Developing conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.
+  Developing conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.  
+  **Manuscript is under preparation.**
 
-### Collaborations with [Infectious Disease Dynamics](https://www.iddynamics.jhsph.edu)
+## Collaborations with [Infectious Disease Dynamics](https://www.iddynamics.jhsph.edu)
 - **Disease Mapping**  
   Extended the directed acyclic graph autoregressive (DAGAR) model to accommodate multi-source, misaligned, and censored data, and applied it to quantify spatial and spatio-temporal patterns in real-world datasets.
 
-### Master’s Thesis
-- **Spatial Modeling of Point Source Influence**  
-  Developed a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data.
+ ![](assets/disease_map.png){width=80% fig-align="center"}
 
-### Master’s Research
-- **Measurement Error in Survival Models**  
+## Master’s Thesis
+- **Spatial Modeling of Point Source Influence**  
+  Developed a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data. Paper is available at [JABES](https://link.springer.com/article/10.1007/s13253-021-00466-y).
+
+ ![](assets/dvcp.png){width=80% fig-align="center"}
+
+## Master’s Research
+- **Measurement Error and Causal Inference**  
   Derived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.  
   Developed EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods.
+
+</div>
+</div>
+</div>
