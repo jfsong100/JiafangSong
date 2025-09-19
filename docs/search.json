@@ -7,25 +7,25 @@
     "text": "Jiafang Song\nPhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\n\nPh.D. Candidate in Biostatistics (Aug 2021 – May 2026, expected)\nDepartment of Biostatistics, Johns Hopkins University\nAdvisor: Dr. Abhirup Datta\nM.S. in Biostatistics (Aug 2019 – May 2021)\nDepartment of Biostatistics, Yale University\nAdvisor: Dr. Joshua Warren\nResearch Assistant Advisors: Dr. Donna Spiegelman and Dr. Xin Zhou\nB.S. in Pharmaceutical Sciences (Sep 2014 – Jul 2018)\nSchool of Pharmaceutical Sciences, Peking University\nB.S. in Economics (Sep 2015 – Jul 2018)\nChina Center for Economic Research, Peking University"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\nI work on Bayesian inference, machine learning, variational inference, and spatial statistics.\n\n\n\nFast Variational Inference for NNGP\nDesigned a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on arxiv.\nspVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A tutorial is available. \nNormalizing Flows for Variational Inference\nDeveloping conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.\nManuscript is under preparation.\n\n\n\n\n\nDisease Mapping\nExtended the directed acyclic graph autoregressive (DAGAR) model to accommodate multi-source, misaligned, and censored data, and applied it to quantify spatial and spatio-temporal patterns in real-world datasets.\n\n\n\n\n\n\n\n\n\n\nSpatial Modeling of Point Source Influence\nDeveloped a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data. Paper is available at JABES.\n\n\n\n\n\n\n\n\n\n\nMeasurement Error and Causal Inference\nDerived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.\nDeveloped EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jiafang Song",
     "section": "",
-    "text": "I am a PhD Candidate in Biostatistics at Johns Hopkins University (expected May 2026), advised by Abhirup Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Spatial statistics\nApplications: Air pollution · Disease mapping · Surveillance data"
+    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Abhirup Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Spatial statistics\nApplications: Air pollution · Disease mapping · Surveillance data"
   },
   {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
     "title": "Jiafang Song",
-    "section": "Highlights",
-    "text": "Highlights\n\nFast Variational Bayes for Large Spatial Data — Approximate posterior distribution using variational inference methods for large scale spatial data.\nNeVI-Cut — Normalizing flow variational inference for approximating posteriors."
+    "section": "",
+    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Abhirup Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Spatial statistics\nApplications: Air pollution · Disease mapping · Surveillance data"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Jiafang Song",
+    "section": "News",
+    "text": "News\n\nR package spVarBayes is available on Github."
   },
   {
     "objectID": "index.html#contact",
@@ -35,11 +35,25 @@
     "text": "Contact\nBaltimore · Maryland · USA\njsong100@jhu.edu"
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Jiafang Song",
-    "section": "News",
-    "text": "News\n\nR package spVarBayes is available on Github."
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\nI have served as a teaching assistant across undergraduate, Master’s, and PhD courses in Biostatistics, with responsibilities ranging from leading lab sessions to holding office hours and grading.\n\n\n\nSurvival Analysis (Masters & PhD)\nFall 2025 — Office hours and grading for ~20 students.\nPublic Health Biostatistics (Undergraduate)\nFall 2024 — Led lab sessions for ~50 students.\nFall 2023 — Led lab sessions for ~50 students.\nStatistical Methods (Masters)\nSpring 2024 — Office hours for ~200 students.\nSpring 2023 — Office hours for ~200 students.\nAdvanced Methods (PhD level)\nSpring 2022 — Office hours, grading and taught lab sessions for ~10 students.\nFall 2022 — Office hours, grading for ~10 students."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Welcome",
+    "section": "",
+    "text": "Survival Analysis (Masters & PhD)\nFall 2025 — Office hours and grading for ~20 students.\nPublic Health Biostatistics (Undergraduate)\nFall 2024 — Led lab sessions for ~50 students.\nFall 2023 — Led lab sessions for ~50 students.\nStatistical Methods (Masters)\nSpring 2024 — Office hours for ~200 students.\nSpring 2023 — Office hours for ~200 students.\nAdvanced Methods (PhD level)\nSpring 2022 — Office hours, grading and taught lab sessions for ~10 students.\nFall 2022 — Office hours, grading for ~10 students."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\nI work on Bayesian inference, machine learning, variational inference, and spatial statistics.\n\n\n\nFast Variational Inference for NNGP\nDesigned a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on arxiv.\nspVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A tutorial is available. \nNormalizing Flows for Variational Inference\nDeveloping conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.\nManuscript is under preparation.\n\n\n\n\n\nDisease Mapping\nExtended the directed acyclic graph autoregressive (DAGAR) model to accommodate multi-source, misaligned, and censored data, and applied it to quantify spatial and spatio-temporal patterns in real-world datasets.\n\n\n\n\n\n\n\n\n\n\nSpatial Modeling of Point Source Influence\nDeveloped a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data. Paper is available at JABES.\n\n\n\n\n\n\n\n\n\n\nMeasurement Error and Causal Inference\nDerived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.\nDeveloped EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods."
   },
   {
     "objectID": "research.html#ph.d.-research",
@@ -68,27 +82,6 @@
     "title": "Welcome",
     "section": "",
     "text": "Measurement Error and Causal Inference\nDerived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.\nDeveloped EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Jiafang Song",
-    "section": "",
-    "text": "I am a PhD Candidate in Biostatistics at Johns Hopkins University (expected May 2026), advised by Abhirup Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Spatial statistics\nApplications: Air pollution · Disease mapping · Surveillance data"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\nI have served as a teaching assistant across undergraduate, Master’s, and PhD courses in Biostatistics, with responsibilities ranging from leading lab sessions to holding office hours and grading.\n\n\n\nSurvival Analysis (Masters & PhD)\nFall 2025 — Office hours and grading for ~20 students.\nPublic Health Biostatistics (Undergraduate)\nFall 2024 — Led lab sessions for ~50 students.\nFall 2023 — Led lab sessions for ~50 students.\nStatistical Methods (Masters)\nSpring 2024 — Office hours for ~200 students.\nSpring 2023 — Office hours for ~200 students.\nAdvanced Methods (PhD level)\nSpring 2022 — Office hours, grading and taught lab sessions for ~10 students.\nFall 2022 — Office hours, grading for ~10 students."
-  },
-  {
-    "objectID": "teaching.html#teaching-experience",
-    "href": "teaching.html#teaching-experience",
-    "title": "Welcome",
-    "section": "",
-    "text": "Survival Analysis (Masters & PhD)\nFall 2025 — Office hours and grading for ~20 students.\nPublic Health Biostatistics (Undergraduate)\nFall 2024 — Led lab sessions for ~50 students.\nFall 2023 — Led lab sessions for ~50 students.\nStatistical Methods (Masters)\nSpring 2024 — Office hours for ~200 students.\nSpring 2023 — Office hours for ~200 students.\nAdvanced Methods (PhD level)\nSpring 2022 — Office hours, grading and taught lab sessions for ~10 students.\nFall 2022 — Office hours, grading for ~10 students."
   },
   {
     "objectID": "more.html",
