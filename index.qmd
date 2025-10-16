@@ -30,13 +30,14 @@ execute:
 
 ## Welcome
 
-I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Abhirup Datta. My research focuses on **Bayesian inference**, **variational inference methods with normalizing flows** for large, complex datasets.
+I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Dr. Abhi Datta. My research focuses on **Bayesian inference**, **variational inference methods with normalizing flows** for large, complex datasets.
 
-- **Research interests:** Bayesian inference · Variational inference · Normalizing flow · Spatial statistics
-- **Applications:** Air pollution · Disease mapping · Surveillance data
+- **Research interests:** Bayesian inference · Variational inference · Normalizing flow · Transfer Learning
+- **Applications:** Air pollution · Disease mapping · Global Health
 
 ## News
 
+- Python package *[NeVI-Cut](https://github.com/jfsong100/NeVICut.git)* is available on Github.
 - R package *[spVarBayes](https://github.com/jfsong100/spVarBayes)* is available on Github.
 
 

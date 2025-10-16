@@ -28,17 +28,21 @@ Johns Hopkins University
 
 <div class="g-col-12 g-col-lg-9">
 
-I work on Bayesian inference, machine learning, variational inference, and spatial statistics.
+I work on Bayesian inference, machine learning, variational inference, normalizing flows, and spatial statistics.
 
 ## Ph.D. Research
+
+- **Cutting Feedback for Uncertainty Propagation using Neural Networks**  
+Designed neural network-based method for efficient uncertainty propagation between upstream and downstream analyses without reverse back. Approximated cut-posteriors using conditional normalizing flow. More information on [arxiv](https://arxiv.org/abs/2510.10268).  
+  **[NeVI-Cut](https://github.com/jfsong100/NeVICut.git)**: An python package for modular Bayesian inference, directly utilizes posterior samples from upstream and triply stochastic scalable algorithm is devised to implement the method. 
+ ![](assets/nevi.png){width=80% fig-align="center"}
+ 
+
 - **Fast Variational Inference for NNGP**  
   Designed a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on [arxiv](https://arxiv.org/abs/2507.12251).  
-  **spVarBayes**: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A [tutorial](https://jfsong100.github.io/spVarBayes/spVarBayes-tutorial.html) is available.
+  **[spVarBayes](https://github.com/jfsong100/spVarBayes.git)**: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A [tutorial](https://jfsong100.github.io/spVarBayes/spVarBayes-tutorial.html) is available.
  ![](assets/vi.png){width=80% fig-align="center"}
 
-- **Normalizing Flows for Variational Inference**  
-  Developing conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.  
-  **Manuscript is under preparation.**
 
 ## Collaborations with [Infectious Disease Dynamics](https://www.iddynamics.jhsph.edu)
 - **Disease Mapping**  

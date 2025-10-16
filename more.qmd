@@ -28,16 +28,25 @@ Johns Hopkins University
 
 <div class="g-col-12 g-col-lg-9">
 
-## Presentations in Conferences
+## Talks and Presentations
 
-- **Poster presenter.** *Nearest Neighbor Gaussian Process Variational Inference for Large Geostatistical Datasets.*  
-  Joint Statistical Meetings (JSM), Aug 2024.
+- **Oral presenter.** *Neural network based variational inference for cutting feedback during uncertainty propagation.*  
+  [IDIES](https://www.idies.jhu.edu/outreach-events/annual-symposium/2025-symposium/) Anuual Symposium, Oct 2025.
+
+- **Poster presenter.** *Fast Variational Bayes for Large Spatial Data.*  
+  EnviBayes, Oct 2025.
+
+- **Oral presenter.** *Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.*  
+  ENAR, Mar 2025.
 
 - **Poster presenter.** *Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.*  
   ENVR Workshop: Spatial Data Science for the Environment, Oct 2024.
 
-- **Oral presenter.** *Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.*  
-  ENAR, Mar 2025.
+- **Poster presenter.** *Nearest Neighbor Gaussian Process Variational Inference for Large Geostatistical Datasets.*  
+  Joint Statistical Meetings (JSM), Aug 2024.
+
+
+
 
 </div>
 </div>

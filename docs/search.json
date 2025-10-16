@@ -11,21 +11,21 @@
     "href": "index.html",
     "title": "Jiafang Song",
     "section": "",
-    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Abhirup Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Spatial statistics\nApplications: Air pollution · Disease mapping · Surveillance data"
+    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Dr. Abhi Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Transfer Learning\nApplications: Air pollution · Disease mapping · Global Health"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Jiafang Song",
     "section": "",
-    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Abhirup Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Spatial statistics\nApplications: Air pollution · Disease mapping · Surveillance data"
+    "text": "I am a fifth-year PhD student in Biostatistics at Johns Hopkins University, advised by Dr. Abhi Datta. My research focuses on Bayesian inference, variational inference methods with normalizing flows for large, complex datasets.\n\nResearch interests: Bayesian inference · Variational inference · Normalizing flow · Transfer Learning\nApplications: Air pollution · Disease mapping · Global Health"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Jiafang Song",
     "section": "News",
-    "text": "News\n\nR package spVarBayes is available on Github."
+    "text": "News\n\nPython package NeVI-Cut is available on Github.\nR package spVarBayes is available on Github."
   },
   {
     "objectID": "index.html#contact",
@@ -53,14 +53,14 @@
     "href": "research.html",
     "title": "Welcome",
     "section": "",
-    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\nI work on Bayesian inference, machine learning, variational inference, and spatial statistics.\n\n\n\nFast Variational Inference for NNGP\nDesigned a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on arxiv.\nspVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A tutorial is available. \nNormalizing Flows for Variational Inference\nDeveloping conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.\nManuscript is under preparation.\n\n\n\n\n\nDisease Mapping\nExtended the directed acyclic graph autoregressive (DAGAR) model to accommodate multi-source, misaligned, and censored data, and applied it to quantify spatial and spatio-temporal patterns in real-world datasets.\n\n\n\n\n\n\n\n\n\n\nSpatial Modeling of Point Source Influence\nDeveloped a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data. Paper is available at JABES.\n\n\n\n\n\n\n\n\n\n\nMeasurement Error and Causal Inference\nDerived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.\nDeveloped EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods."
+    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\nI work on Bayesian inference, machine learning, variational inference, normalizing flows, and spatial statistics.\n\n\n\nCutting Feedback for Uncertainty Propagation using Neural Networks\nDesigned neural network-based method for efficient uncertainty propagation between upstream and downstream analyses without reverse back. Approximated cut-posteriors using conditional normalizing flow. More information on arxiv.\nNeVI-Cut: An python package for modular Bayesian inference, directly utilizes posterior samples from upstream and triply stochastic scalable algorithm is devised to implement the method. \nFast Variational Inference for NNGP\nDesigned a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on arxiv.\nspVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A tutorial is available. \n\n\n\n\n\nDisease Mapping\nExtended the directed acyclic graph autoregressive (DAGAR) model to accommodate multi-source, misaligned, and censored data, and applied it to quantify spatial and spatio-temporal patterns in real-world datasets.\n\n\n\n\n\n\n\n\n\n\nSpatial Modeling of Point Source Influence\nDeveloped a hierarchical Bayesian model with MCMC sampling to estimate both magnitude and spatial extent of influence from a point source, incorporating a Gaussian predictive process for large-scale data. Paper is available at JABES.\n\n\n\n\n\n\n\n\n\n\nMeasurement Error and Causal Inference\nDerived exact and asymptotic properties of regression calibration for causal effect estimation in truncated and censored survival data.\nDeveloped EM algorithms for Cox models with covariate measurement error, and conducted simulation studies benchmarking against conventional regression calibration methods."
   },
   {
     "objectID": "research.html#ph.d.-research",
     "href": "research.html#ph.d.-research",
     "title": "Welcome",
     "section": "",
-    "text": "Fast Variational Inference for NNGP\nDesigned a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on arxiv.\nspVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A tutorial is available. \nNormalizing Flows for Variational Inference\nDeveloping conditional normalizing flow methods to improve flexibility of variational posteriors in modular Bayesian inference and spatial models.\nManuscript is under preparation."
+    "text": "Cutting Feedback for Uncertainty Propagation using Neural Networks\nDesigned neural network-based method for efficient uncertainty propagation between upstream and downstream analyses without reverse back. Approximated cut-posteriors using conditional normalizing flow. More information on arxiv.\nNeVI-Cut: An python package for modular Bayesian inference, directly utilizes posterior samples from upstream and triply stochastic scalable algorithm is devised to implement the method. \nFast Variational Inference for NNGP\nDesigned a fast variational inference method for posterior approximation in high-dimensional linear mixed-effects models. More information on arxiv.\nspVarBayes: An R package for fast variational Bayesian inference in large-scale geospatial regression using NNGP. It leverages closed-form gradient updates and linear response corrections to achieve calibrated uncertainty at reduced computational cost. A tutorial is available."
   },
   {
     "objectID": "research.html#collaborations-with-infectious-disease-dynamics",
@@ -88,13 +88,13 @@
     "href": "more.html",
     "title": "Welcome",
     "section": "",
-    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\n\n\nPoster presenter. Nearest Neighbor Gaussian Process Variational Inference for Large Geostatistical Datasets.\nJoint Statistical Meetings (JSM), Aug 2024.\nPoster presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENVR Workshop: Spatial Data Science for the Environment, Oct 2024.\nOral presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENAR, Mar 2025."
+    "text": "PhD Candidate, Biostatistics\nJohns Hopkins University\n  \njsong100@jhu.edu\n\n\n\n\n\nOral presenter. Neural network based variational inference for cutting feedback during uncertainty propagation.\nIDIES Anuual Symposium, Oct 2025.\nPoster presenter. Fast Variational Bayes for Large Spatial Data.\nEnviBayes, Oct 2025.\nOral presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENAR, Mar 2025.\nPoster presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENVR Workshop: Spatial Data Science for the Environment, Oct 2024.\nPoster presenter. Nearest Neighbor Gaussian Process Variational Inference for Large Geostatistical Datasets.\nJoint Statistical Meetings (JSM), Aug 2024."
   },
   {
-    "objectID": "more.html#presentations-in-conferences",
-    "href": "more.html#presentations-in-conferences",
+    "objectID": "more.html#talks-and-presentations",
+    "href": "more.html#talks-and-presentations",
     "title": "Welcome",
     "section": "",
-    "text": "Poster presenter. Nearest Neighbor Gaussian Process Variational Inference for Large Geostatistical Datasets.\nJoint Statistical Meetings (JSM), Aug 2024.\nPoster presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENVR Workshop: Spatial Data Science for the Environment, Oct 2024.\nOral presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENAR, Mar 2025."
+    "text": "Oral presenter. Neural network based variational inference for cutting feedback during uncertainty propagation.\nIDIES Anuual Symposium, Oct 2025.\nPoster presenter. Fast Variational Bayes for Large Spatial Data.\nEnviBayes, Oct 2025.\nOral presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENAR, Mar 2025.\nPoster presenter. Fast Variational Inference for Large Scale Spatial Data Analysis using Nearest Neighbor Gaussian Processes.\nENVR Workshop: Spatial Data Science for the Environment, Oct 2024.\nPoster presenter. Nearest Neighbor Gaussian Process Variational Inference for Large Geostatistical Datasets.\nJoint Statistical Meetings (JSM), Aug 2024."
   }
 ]
