@@ -5,7 +5,7 @@ about:
   template: trestles        # other options: default, jolla, broadside
   image: assets/jiafang.png # convert your .heic to .jpg/.png and update path
   image-shape: round        # rectangle | round | rounded
-  image-width: 180px
+  image-width: 280px
   links:
     - icon: github
       text: GitHub
