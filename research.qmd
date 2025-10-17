@@ -34,7 +34,7 @@ I work on Bayesian inference, machine learning, variational inference, normalizi
 
 - **Cutting Feedback for Uncertainty Propagation using Neural Networks**  
 Designed neural network-based method for efficient uncertainty propagation between upstream and downstream analyses without reverse back. Approximated cut-posteriors using conditional normalizing flow. More information on [arxiv](https://arxiv.org/abs/2510.10268).  
-  **[NeVI-Cut](https://github.com/jfsong100/NeVICut.git)**: An python package for modular Bayesian inference, directly utilizes posterior samples from upstream and triply stochastic scalable algorithm is devised to implement the method. 
+  **[NeVI-Cut](https://github.com/jfsong100/NeVICut.git)**: A python package for modular Bayesian inference, directly utilizes posterior samples from upstream and triply stochastic scalable algorithm is devised to implement the method. 
  ![](assets/nevi.png){width=80% fig-align="center"}
  
 
